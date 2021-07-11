@@ -1,6 +1,33 @@
 #EXTM3U
-#EXTINF:-1 ,AMERICA TV HD
-http://201.182.242.130:8000/play/a05i/index.m3u8
+#EXTINF:-1 ,Animal Planet
+http://45.166.147.6:8000/play/a01f
 
-#EXTINF:-1 ,13 HD
-http://201.182.242.130:8000/play/a04d/index.m3u8
+#EXTINF:-1 ,TCM
+http://45.166.147.6:8000/play/a00k
+
+#EXTINF:-1 ,Sony
+http://45.166.147.6:8000/play/a035
+
+#EXTINF:-1 ,Cinemax
+http://45.166.147.6:8000/play/a034
+
+#EXTINF:-1 ,Disney Jr
+http://45.166.147.6:8000/play/a01a
+
+#EXTINF:-1 ,Cinecanal
+http://45.166.147.6:8000/play/a00c
+
+#EXTINF:-1 ,FX Movies
+http://45.166.147.6:8000/play/a010
+
+#EXTINF:-1 ,HBO
+http://45.166.147.6:8000/play/a033
+
+#EXTINF:-1 ,HBO 2
+http://45.166.147.6:8000/play/a016
+
+#EXTINF:-1 ,HBO Extreme
+http://45.166.147.6:8000/play/a018
+
+#EXTINF:-1 ,HBO Family
+http://45.166.147.6:8000/play/a019
