@@ -5,11 +5,11 @@ https://qlobbidev.s.llnwi.net/bpk-tv/AMERICATV/hls/AMERICATV-audio_128175_eng=12
 https://qlobbidev.s.llnwi.net/bpk-tv/LATINA/hls/LATINA-audio_132113_spa=128000-video=2900000.m3u8
 #EXTINF:-1,  ATV
 https://qlobbidev.s.llnwi.net/bpk-tv/ATV/hls/ATV-audio_128058_und=128000-video=3300000.m3u8
-#EXTINF:-1,  TV PERU
+#EXTINF:-1,  TV PERU HD
 https://qlobbidev.s.llnwi.net/bpk-tv/TVPERU/hls/TVPERU-audio_128713_spa=128000-video=2900000.m3u8
-#EXTINF:-1,  EXITOSA
+#EXTINF:-1,  EXITOSA HD
 https://cu.onliv3.com/livevd1/user2_hd720/index.m3u8
-#EXTINF:-1,  KARIBEÑA
+#EXTINF:-1,  KARIBEÑA HD
 https://cu.onliv3.com/livevd/user1_hd720/index.m3u8
 #EXTINF:-1,  RCN
 https://qlobbidev.s.llnwi.net/bpk-tv/RCN/hls/RCN-audio_128049_spa=128000-video=2900000.m3u8
